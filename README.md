@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chloebweaver !
 - 👀 I’m interested in classic lit, good movies, and old technology.
-- 🌱 I’m currently learning bash, HTML, and CSS.
+- 🌱 I’m currently learning bash, git, HTML, CSS, and JavaScript.
 - <s> 💞️ I’m looking to collaborate on ...</s>
 - 📫 How to reach me: for now, don't <3
 
